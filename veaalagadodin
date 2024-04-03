@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odin Recipes</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for styling -->
+</head>
+<body>
+    <header>
+        <h1>Odin Recipes</h1>
+        <nav>
+            <ul>
+                <li><a href="#chocolate-chip-cookies">Chocolate Chip Cookies</a></li>
+                <li><a href="#vegetable-stir-fry">Vegetable Stir Fry</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="chocolate-chip-cookies">
+            <h2>Chocolate Chip Cookies</h2>
+            <img src="chocolate_chip_cookies.jpg" alt="Chocolate Chip Cookies">
+            <h3>Ingredients:</h3>
+            <ul>
+                <li>2 1/4 cups all-purpose flour</li>
+                <li>1/2 teaspoon baking soda</li>
+                <li>1 cup unsalted butter, room temperature</li>
+                <li>1/2 cup granulated sugar</li>
+                <li>1 cup packed light-brown sugar</li>
+                <li>1 teaspoon salt</li>
+                <li>2 teaspoons pure vanilla extract</li>
+                <li>2 large eggs</li>
+                <li>2 cups semisweet and/or milk chocolate chips</li>
+            </ul>
+            <h3>Instructions:</h3>
+            <ol>
+                <li>Preheat oven to 350°F (180°C).</li>
+                <li>In a small bowl, whisk together the flour and baking soda; set aside.</li>
+                <li>In a large bowl, beat together the butter, granulated sugar, brown sugar, and salt until creamy.</li>
+                <li>Beat in the vanilla and eggs until light and creamy.</li>
+                <li>Gradually add the flour mixture and mix until combined.</li>
+                <li>Stir in the chocolate chips.</li>
+                <li>Drop rounded tablespoons of dough onto ungreased baking sheets, spacing them about 2 inches apart.</li>
+                <li>Bake until cookies are golden around the edges, but still soft in the center, about 8 to 10 minutes.</li>
+                <li>Remove from oven and let cookies cool on baking sheet for 1 to 2 minutes before transferring them to a wire rack to cool completely.</li>
+            </ol>
+        </section>
+
+        <section id="vegetable-stir-fry">
+            <h2>Vegetable Stir Fry</h2>
+            <img src="vegetable_stir_fry.jpg" alt="Vegetable Stir Fry">
+            <h3>Ingredients:</h3>
+            <ul>
+                <li>2 tablespoons vegetable oil</li>
+                <li>1 onion, sliced</li>
+                <li>2 cloves garlic, minced</li>
+                <li>1 bell pepper, sliced</li>
+                <li>2 carrots, sliced</li>
+                <li>1 cup broccoli florets</li>
+                <li>1 cup snow peas</li>
+                <li>1/4 cup soy sauce</li>
+                <li>2 tablespoons hoisin sauce</li>
+                <li>1 tablespoon cornstarch</li>
+                <li>1 teaspoon sesame oil</li>
+                <li>Rice or noodles, for serving</li>
+            </ul>
+            <h3>Instructions:</h3>
+            <ol>
+                <li>In a small bowl, whisk together the soy sauce, hoisin sauce, cornstarch, and sesame oil; set aside.</li>
+                <li>Heat vegetable oil in a large skillet or wok over medium-high heat.</li>
+                <li>Add onion and garlic to the skillet and cook until softened.</li>
+                <li>Add bell pepper, carrots, broccoli, and snow peas to the skillet and stir-fry until tender-crisp.</li>
+                <li>Stir in the sauce mixture and cook until thickened.</li>
+                <li>Serve stir-fry over rice or noodles.</li>
+            </ol>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Odin Recipes. All rights reserved.</p>
+    </footer>
+</body>
+</html>
